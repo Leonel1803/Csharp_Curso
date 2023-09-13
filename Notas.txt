@@ -1,0 +1,43 @@
+No puede haber dos clases con el mismo nombre en un mismo programa, a no ser que se utilizen en namespaces diferentes
+
+Clases:
+	Existen clases propias: definidas por nosotros mismos; y las clases predefinidad: clases que ya vienen con el propio lenguaje.
+
+Tipos e datos:
+	Enteros:
+		-sbyte	(-127 a 128)
+		-byte	(0 a 255)
+		-short	(-32 768 a 32 767)
+		-ushort	( 0 a 65.535)
+		-int	(-2.147.483.648 a 2.147.483.647)
+		-uint	(0 a 4.294.967.295)
+		-long	(-9.223.372.036.854.775.808 a 9.223.372.036.854.775.807)
+		-ulong	(0 a 18.446.744.073.709.551.615)
+		-nint	Depende de la plataforma	Entero de 64 bits o 32 bits con signo
+		-nuint	Depende de la plataforma	Entero de 64 bits o 32 bits sin signo
+
+	Reales:
+		-float
+		-double
+		-decimal
+
+	Booleanos:
+		Toma un valor de estos dos: true o false
+
+	UTF16:
+		-char (un solo caracter de 16 bits)
+		-string (cadena de caracteres, cada uno de 16 bits)
+
+Las constantes no varian despues de que ya se les asigna un valor
+
+Método:
+	Grupo de sentencias que se les de un nombre que realizan una tarea en concreto
+	Sintaxis:
+	TipoDevuelto nombreMétodo(parámetros){
+		instrucciones	
+	}
+
+Cuando estamos en una clase, todo lo que sea public va con "PascalCase" y lo privado con "camelCase"
+
+El modificadoe "static", nos permite que un atributo o método se pueda ejectutar aunque no se haya creado una instancia de la clase,
+de ejemplo tenemos a la clase Console con su metodo "WriteLine"

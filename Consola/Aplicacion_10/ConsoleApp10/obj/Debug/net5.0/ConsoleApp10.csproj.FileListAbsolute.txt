@@ -1,0 +1,15 @@
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.exe
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.deps.json
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.runtimeconfig.json
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.runtimeconfig.dev.json
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.dll
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ref\ConsoleApp10.dll
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.pdb
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.AssemblyInfo.cs
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.dll
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ref\ConsoleApp10.dll
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.pdb
+C:\C# Curso\Consola\Aplicacion_10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.genruntimeconfig.cache

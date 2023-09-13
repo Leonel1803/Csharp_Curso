@@ -1,0 +1,15 @@
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ref\ConsoleApp6.dll
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+C:\C# Curso\Consola\Aplicación_6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
